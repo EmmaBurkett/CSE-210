@@ -1,8 +1,8 @@
 """
 Recall that in past classes you used functions, and sometimes you used
-a function multipul times for different purposes. It's the same with
-classes; you will use a class multipul times for different purposes. In 
-this file you will use a class to represent multipul persons. 
+a function multiple  times for different purposes. It's the same with
+classes; you will use a class multiple  times for different purposes. In 
+this file you will use a class to represent multiple persons. 
 
 instantiate = to create an instance, or a single occurrence, of an object.
 """

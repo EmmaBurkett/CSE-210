@@ -1,6 +1,6 @@
 """Abstraction - we want a little piece of information to store; not all
 of it.  Like when your math teacher gives you useless info and wants
-you to only acknowledge the info that is relevent to the given problem.
+you to only acknowledge the info that is relevant to the given problem.
 
 A Class is: another way to write code. We often use classes for
 organization or convenience. It can store functions and can store 
@@ -30,7 +30,7 @@ heather = Person()
 print(emma)
 # prints out something like this: 
 # <__main__.Person object at 0x0000023C2101FCA0>
-# '__main__' is a referance for this file. 
+# '__main__' is a reference for this file. 
 # 'Person' is our class
 # '0x0000023C2101FCA0' is the location in memory for the object 'emma'
 # So this says:
@@ -40,7 +40,7 @@ print(emma)
 
 
 # This declares a variable which we store in the class.
-# This variable is arbitarily called an 'attribute' because 
+# This variable is arbitrarily called an 'attribute' because 
 # it is a variable owned by the class.
 emma.full_name = "Emma Burkett" 
 

@@ -1,6 +1,6 @@
 """
 In this file we create an array attribute in Person which will hold
-a list of instances, 'Resturant.' The list represents the Person's 
+a list of instances, 'Restaurant.' The list represents the Person's 
 favorite places to eat.
 """
 
@@ -13,7 +13,7 @@ class Person:
         # this instance. 
         self.full_name = full_name
 
-        # This array will hold multipul instances of Restaurant.
+        # This array will hold multiple instances of Restaurant.
         self.restaurants = []
     
 
@@ -29,15 +29,15 @@ class Person:
         # return the our list of favorite restaurants (each item in the
         # array being an instance of Restaurant, which array is stored 
         # in an instance of person)
-        # Each 'Person' will have their own list of favorite resturants.
+        # Each 'Person' will have their own list of favorite restaurants.
         return self.restaurants
     
 
     def get_favorite_restaurant(self):
-        # Put something in best to intialize it.
+        # Put something in best to initialize it.
         best = -1
 
-        # put an instance of restaurant into favorite to intialize it.
+        # put an instance of restaurant into favorite to initialize it.
         favorite = Restaurant("","","5", -1)
 
         # Loop through the array self.restaurants, let r represent each
@@ -82,7 +82,7 @@ print(emma.full_name)
 # big judds
 big_judds = Restaurant("Big Judd's", "American", "5", 4)
 
-# Add the instance of Restaurant, big_judds to my intance of 
+# Add the instance of Restaurant, big_judds to my instance of 
 # Person's 'restaurant' list attribute.
 emma.add_restaurant(big_judds)
 

@@ -24,7 +24,7 @@ print(emma.full_name)
 heather = Person("Heather Purser")
 print(heather)
 
-# A variable owned by a class is arbitarily called an 'attribute' 
+# A variable owned by a class is arbitrarily called an 'attribute' 
 # because objects in real life have attributes. 
 # Manipulate the attribute owned by the instance of Person 
 # called 'heather.'
