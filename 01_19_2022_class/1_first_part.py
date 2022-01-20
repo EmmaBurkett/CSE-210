@@ -1,5 +1,5 @@
 """Abstraction - we want a little piece of information to store; not all
-of it.  Like when your math teacher gives you useless info and wants
+of it.  Like when your math teacher gives you useless info and wants                                          Hello
 you to only acknowledge the info that is relevant to the given problem.
 
 A Class is: another way to write code. We often use classes for
