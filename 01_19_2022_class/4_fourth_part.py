@@ -2,14 +2,14 @@
 In this file we create an array attribute in Person which will hold
 a list of instances, 'Restaurant.' The list represents the Person's 
 favorite places to eat.
-"""
+""" #Hello
 
 class Person:
 
     # ="" initializes full_name as an empty string
     def __init__(self, full_name=""):
 
-        # Store parameter in an attribute self.full_name for 
+        # Store parameter in an attribute self.full_name for hello
         # this instance. 
         self.full_name = full_name
 
